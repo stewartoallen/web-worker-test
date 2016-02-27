@@ -1,0 +1,16 @@
+{
+  "name": "worker-test",
+  "version": "0.0.1",
+  "description": "web worker test limits",
+  "author": "Stewart Allen <stewart@neuron.com>",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stewartoallen/worker-test.git"
+  },
+  "keywords": ["web worker", "test"],
+  "dependencies": {
+    "connect": "3.3.x",
+    "serve-static": "1.10.x"
+  }
+}
