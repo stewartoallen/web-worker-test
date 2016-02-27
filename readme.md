@@ -1,7 +1,7 @@
-`git clone https://github.com/stewartoallen/web-worker-test.git`
-`cd web-worker-test`
-`npm update`
-`node js/server.js`
+1. `git clone https://github.com/stewartoallen/web-worker-test.git`
+2. `cd web-worker-test`
+3. `npm update`
+4. `node js/server.js`
 
 then, in your browser:
 
